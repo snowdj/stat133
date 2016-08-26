@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Stat 133
 tagline:          'UCB - Stat 133'
 description:      'Concepts in Computing with Data'
-url:              http://gastonsanchez.com/stat133
-baseurl:          http://gastonsanchez.com/stat133
+url:              http://snowdj.github.io/stat133
+baseurl:          http://snowdj.github.io/stat133
 
 author:
   name:           'Gaston Sanchez'
-  url:            http://gastonsanchez.com
+  url:            http://snowdj.github.io/stat133
 
 paginate:         5
 
